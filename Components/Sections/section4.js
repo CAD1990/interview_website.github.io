@@ -21,7 +21,6 @@ export default function SectionFour() {
 
                     <div className={styles.ButtonContainer
                     }>
-
                         <Button variant={"danger"} name={"Previous Section"} anchor={"SectionThree"}></Button>
                         <Button variant={"success"} name={"Next Section"} anchor={"SectionFive"}></Button>
                     </div>
