@@ -9,7 +9,7 @@ export default function Left() {
 
         <Row md={12}>
             <Col md={12}>
-                <div className={styles.DataWrapper3}><DWChart title="ASHE 2019: 30th Percentile" src="https://datawrapper.dwcdn.net/bGC3X/5/" /></div>
+                <div className={styles.DataWrapper3}><DWChart title="Constituency Analysis: Bottom 30% of Workers" src="https://datawrapper.dwcdn.net/bGC3X/6/" /></div>
 
 
             </Col>
